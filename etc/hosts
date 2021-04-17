@@ -1,0 +1,7 @@
+::1	localhost	localhost.localdomain	localhost6	localhost6.localdomain6
+#key	7B7B526F6D616E69616E53656375726974795465616D7D7D
+#nonce = key
+
+127.0.0.1	localhost	localhost.localdomain	localhost4	localhost4.localdomain4
+127.0.0.1	vps-97f3ceaa.vps.ovh.net	vps-97f3ceaa
+
